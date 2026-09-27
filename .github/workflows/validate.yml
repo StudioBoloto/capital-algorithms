@@ -1,0 +1,26 @@
+name: Validate submission package
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate output contract
+        run: python runtime/smoke_test.py
+      - name: Run reference prototype
+        run: python runtime/prototype.py examples/prototype_stream.jsonl
+      - name: Build container
+        run: docker build -t capital-algorithms:prototype .
+      - name: Run container
+        run: docker run --rm capital-algorithms:prototype

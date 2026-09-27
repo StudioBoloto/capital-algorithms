@@ -1,7 +1,12 @@
 {
   "schema_version": 1,
-  "file_count": 15,
+  "file_count": 16,
   "files": [
+    {
+      "path": ".github/workflows/validate.yml",
+      "bytes": 658,
+      "sha256": "2d9c52fe7f55a82355d87164e1d42026dc898f6e534e33d8009cb3ba68e80b12"
+    },
     {
       "path": ".gitignore",
       "bytes": 33,
@@ -19,8 +24,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3528,
-      "sha256": "73af22399bba4ebfeaf00bbc4c8fcd8dc6b3ad1a4a024f04131b15d1a1350440"
+      "bytes": 3715,
+      "sha256": "71fd6094b2feab121aea419cbe314231e9eadb1d4b8c714b1881520a387cdd0f"
     },
     {
       "path": "demo/README.md",
