@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "file_count": 15,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 33,
+      "sha256": "1f398327758bed124c02230b02344a5bd7a043a707b8270b4a939997a6edf488"
+    },
+    {
+      "path": "Dockerfile",
+      "bytes": 325,
+      "sha256": "cf6c8b73cbdb3c98ea15e8a5d832ead5e15ba7ecf3626790d9e776f445a38e9f"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 372,
+      "sha256": "8eba12912fedaefe5fd08b47cb8d559b73bb6d9db020c60c836ca6f0cdad9ade"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3528,
+      "sha256": "73af22399bba4ebfeaf00bbc4c8fcd8dc6b3ad1a4a024f04131b15d1a1350440"
+    },
+    {
+      "path": "demo/README.md",
+      "bytes": 855,
+      "sha256": "8ff5a77ea9561eadf17fe0d75ff13c5ab274b6c7a5fa2a6f4749e0710e5d5cf3"
+    },
+    {
+      "path": "demo/representative_run.mp4",
+      "bytes": 8479229,
+      "sha256": "35a880eda79020d12df16ff879c5da5edfbe531a69d613bea9a962a245525fde"
+    },
+    {
+      "path": "docs/architecture.md",
+      "bytes": 1506,
+      "sha256": "3f9454cbfb0e93990e4a592dd54fe9ad043889d31869440528eee1d3fe488ee3"
+    },
+    {
+      "path": "docs/evaluation.md",
+      "bytes": 1509,
+      "sha256": "a2e53d0bee42a6a2e2bdcc497d8c0516e2abc901c882c63848db947d2f84a046"
+    },
+    {
+      "path": "docs/intermediate_submission.md",
+      "bytes": 1522,
+      "sha256": "e93824d3c47086a88e6c4b475f694b77dd19a616047fd22a17118fe593ebee91"
+    },
+    {
+      "path": "docs/ros2_contract.md",
+      "bytes": 1364,
+      "sha256": "17d67d335a2dac6598e983060b6893ed0ab30219378b1629212556d2dad9f887"
+    },
+    {
+      "path": "examples/prototype_stream.jsonl",
+      "bytes": 463,
+      "sha256": "a2ab22ee72984ecfe33cfe918052bdfeb0ea53f0dbad8c24db29fe5b705fd31b"
+    },
+    {
+      "path": "examples/sample_output.json",
+      "bytes": 346,
+      "sha256": "8e438f2f9efb30a3639b3d591d6ad2409f94625d4aeaee9be93b5f67132fd97d"
+    },
+    {
+      "path": "presentation/capital-algorithms.pptx",
+      "bytes": 17915638,
+      "sha256": "82ef2cce8a92a79d8b96fb34fc941928d1bf9161337d3bad75836e2f6f695a24"
+    },
+    {
+      "path": "runtime/prototype.py",
+      "bytes": 4533,
+      "sha256": "ec81717bbbb744cfb59234bbc5e2f732a955ed97d08ebd1b2b0c9dffcc7b5f19"
+    },
+    {
+      "path": "runtime/smoke_test.py",
+      "bytes": 978,
+      "sha256": "0f55fbde4ba85054d62a05f5ac0a455e5ab37914866a3a6d170e5eaffb3c00df"
+    }
+  ]
+}

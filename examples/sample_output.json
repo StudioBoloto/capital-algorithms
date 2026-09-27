@@ -1,0 +1,16 @@
+{
+  "status": "mvp_causal_obstacle_candidate",
+  "frame_id": "hesai_lidar",
+  "alarm": true,
+  "nearest_obstacle_m": 12.4,
+  "obstacles": [
+    {
+      "track_id": 7,
+      "center_xyz_m": [0.2, 12.4, 0.9],
+      "size_xyz_m": [0.7, 0.6, 1.8],
+      "distance_forward_m": 12.4,
+      "persistence_frames": 3,
+      "confidence": 0.93
+    }
+  ]
+}
