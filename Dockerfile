@@ -12,4 +12,4 @@ COPY --chown=appuser:appuser examples/ examples/
 
 USER appuser
 
-CMD ["python", "runtime/prototype.py", "examples/prototype_stream.jsonl"]
+CMD ["python3", "runtime/prototype.py", "examples/prototype_stream.jsonl"]

@@ -14,8 +14,8 @@
     },
     {
       "path": "Dockerfile",
-      "bytes": 334,
-      "sha256": "2bb0ed1ed9f63132b1b861c6725f613b49d03b938bd55906c5495c855e8d9f08"
+      "bytes": 335,
+      "sha256": "f73a9ff6378f5f844c297827ed52a318c7e177c320da26982bb5c54efb496b21"
     },
     {
       "path": "LICENSE",
