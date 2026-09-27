@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM ros:humble-ros-base-jammy
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1

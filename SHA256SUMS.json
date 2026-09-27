@@ -14,8 +14,8 @@
     },
     {
       "path": "Dockerfile",
-      "bytes": 325,
-      "sha256": "cf6c8b73cbdb3c98ea15e8a5d832ead5e15ba7ecf3626790d9e776f445a38e9f"
+      "bytes": 334,
+      "sha256": "2bb0ed1ed9f63132b1b861c6725f613b49d03b938bd55906c5495c855e8d9f08"
     },
     {
       "path": "LICENSE",
@@ -49,8 +49,8 @@
     },
     {
       "path": "docs/intermediate_submission.md",
-      "bytes": 1522,
-      "sha256": "e93824d3c47086a88e6c4b475f694b77dd19a616047fd22a17118fe593ebee91"
+      "bytes": 1509,
+      "sha256": "814fd2a3d33093201d8aa1acaa419e994e2b996bf79a8624f9af3c5a89fe58c0"
     },
     {
       "path": "docs/ros2_contract.md",
